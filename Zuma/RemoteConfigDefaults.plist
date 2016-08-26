@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_default_homescreen</key>
+	<string>region1</string>
+	<key>is_promotion_on</key>
+	<false/>
+	<key>price</key>
+	<integer>100</integer>
+	<key>discount</key>
+	<integer>0</integer>
+</dict>
+</plist>
